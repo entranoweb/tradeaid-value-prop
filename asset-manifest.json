@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tradeaid-value-prop/static/css/main.71cad887.css",
+    "main.js": "/tradeaid-value-prop/static/js/main.dce48494.js",
+    "static/js/453.fbc273ba.chunk.js": "/tradeaid-value-prop/static/js/453.fbc273ba.chunk.js",
+    "index.html": "/tradeaid-value-prop/index.html",
+    "main.71cad887.css.map": "/tradeaid-value-prop/static/css/main.71cad887.css.map",
+    "main.dce48494.js.map": "/tradeaid-value-prop/static/js/main.dce48494.js.map",
+    "453.fbc273ba.chunk.js.map": "/tradeaid-value-prop/static/js/453.fbc273ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71cad887.css",
+    "static/js/main.dce48494.js"
+  ]
+}
