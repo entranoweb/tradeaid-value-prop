@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tradeaid-value-prop/static/css/main.7094bd30.css",
-    "main.js": "/tradeaid-value-prop/static/js/main.089d0ba8.js",
+    "main.css": "/tradeaid-value-prop/static/css/main.867aa0b5.css",
+    "main.js": "/tradeaid-value-prop/static/js/main.7736fc55.js",
     "static/js/453.fbc273ba.chunk.js": "/tradeaid-value-prop/static/js/453.fbc273ba.chunk.js",
     "index.html": "/tradeaid-value-prop/index.html",
-    "main.7094bd30.css.map": "/tradeaid-value-prop/static/css/main.7094bd30.css.map",
-    "main.089d0ba8.js.map": "/tradeaid-value-prop/static/js/main.089d0ba8.js.map",
+    "main.867aa0b5.css.map": "/tradeaid-value-prop/static/css/main.867aa0b5.css.map",
+    "main.7736fc55.js.map": "/tradeaid-value-prop/static/js/main.7736fc55.js.map",
     "453.fbc273ba.chunk.js.map": "/tradeaid-value-prop/static/js/453.fbc273ba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7094bd30.css",
-    "static/js/main.089d0ba8.js"
+    "static/css/main.867aa0b5.css",
+    "static/js/main.7736fc55.js"
   ]
 }
